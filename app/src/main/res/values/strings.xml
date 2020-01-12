@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NUMAD20S-DevanshGandhi</string>
+    <string name="action_settings">Settings</string>
+    <string name="details">Details</string>
+    <string name="email">Email:</string>
+    <string name="emailContent">gandhidevansh96@gamil.com</string>
+    <string name="name">Name:</string>
+    <string name="nameContent">Devansh Gandhi</string>
+    <string name="close">Close</string>
+</resources>
